@@ -1,0 +1,52 @@
+[20-Dec-2023 19:31:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php on line 14
+[20-Dec-2023 19:31:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php on line 14
+[20-Dec-2023 19:31:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php on line 14
+[20-Dec-2023 19:32:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php on line 14
+[20-Dec-2023 19:32:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php on line 14
+[20-Dec-2023 19:33:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php on line 14
+[20-Dec-2023 19:33:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php on line 14
+[20-Dec-2023 19:36:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php on line 14
+[20-Dec-2023 19:36:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php on line 14
+[20-Dec-2023 19:36:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php on line 14
+[20-Dec-2023 19:37:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php on line 14
+[20-Dec-2023 19:40:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php on line 14
+[20-Dec-2023 19:40:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yjs0k3qiupy6/public_html/wp-content/themes/asycom/index.php on line 14

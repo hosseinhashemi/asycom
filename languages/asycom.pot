@@ -1,0 +1,832 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Asycom\n"
+"POT-Creation-Date: 2019-11-06 22:35+0330\n"
+"PO-Revision-Date: 2019-11-06 22:31+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:25
+msgid "404 - Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:59
+msgid "It looks like nothing was found at this location. Maybe try a search."
+msgstr ""
+
+#: author.php:41
+msgid "About"
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:23
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:30
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: functions.php:81
+msgid "Primary (Main Menu)"
+msgstr ""
+
+#: functions.php:126
+msgid "By"
+msgstr ""
+
+#: functions.php:128
+msgid "on"
+msgstr ""
+
+#: functions.php:190
+msgid "Main Widget Area"
+msgstr ""
+
+#: functions.php:192
+msgid "Appears in the blog pages"
+msgstr ""
+
+#: functions.php:201
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:203
+msgid "Add widgets here to appear in your footer area 1."
+msgstr ""
+
+#: functions.php:211
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:213
+msgid "Add widgets here to appear in your footer area 2."
+msgstr ""
+
+#: functions.php:221
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:223
+msgid "Add widgets here to appear in your footer area 3."
+msgstr ""
+
+#: functions.php:231
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:233
+msgid "Add widgets here to appear in your footer area 4."
+msgstr ""
+
+#: functions.php:307
+msgid "Comment navigation"
+msgstr ""
+
+#: functions.php:310
+msgid "Older Comments"
+msgstr ""
+
+#: functions.php:314
+msgid "Newer Comments"
+msgstr ""
+
+#: home.php:28
+msgid "BLOG"
+msgstr ""
+
+#: includes/controls/select/asycom-taxonomy-dropdown-custom-control.php:35
+#: includes/customize-section/customize-sidebar.php:89
+msgid "None"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:11
+msgid "Hide About Us Section?"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:12
+msgid "The About Us section will disappear if you enable this option"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:21
+msgid "Select your About Us page"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:29
+msgid "ABOUT US"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:35
+#: includes/customize-section/customize-blog.php:22
+#: includes/customize-section/customize-portfolio.php:23
+#: includes/customize-section/customize-services.php:23
+#: includes/customize-section/customize-testimonials.php:23
+msgid "Main Title"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:38
+#: includes/customize-section/customize-footer.php:30
+msgid "Main Title of About Us section"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:50
+#: includes/customize-section/customize-blog.php:38
+#: includes/customize-section/customize-client.php:35
+#: includes/customize-section/customize-ourteam.php:40
+#: includes/customize-section/customize-portfolio.php:40
+#: includes/customize-section/customize-services.php:38
+#: includes/customize-section/customize-social.php:64
+#: includes/customize-section/customize-testimonials.php:39
+msgid "Sub Title"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:53
+msgid "Sub Title of About Us section"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:67
+#: includes/customize-section/customize-cta.php:52
+#: includes/customize-section/customize-hero.php:36
+#: includes/customize-section/customize-social.php:21
+msgid "Upload a backgound"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:83
+#: includes/customize-section/customize-cta.php:68
+msgid "About Us Backgound color overlay"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:100
+msgid "Service Item 1 Description"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:118
+msgid "Upload an image"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:134
+msgid "Skill title 1"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:137
+#: includes/customize-section/customize-about.php:166
+#: includes/customize-section/customize-about.php:196
+#: includes/customize-section/customize-about.php:228
+#: includes/customize-section/customize-header.php:46
+msgid "Write the Skill title like Photshop or HTML or Happy customers"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:146
+msgid "Skill percent 1"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:150
+#: includes/customize-section/customize-about.php:179
+#: includes/customize-section/customize-about.php:209
+#: includes/customize-section/customize-about.php:241
+msgid ""
+"Enter the Skill percent like 100% or 75%. You should Enter your number "
+"between 0 to 100"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:163
+msgid "Skill title 2"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:175
+msgid "Skill percent 2"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:193
+msgid "Skill title 3"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:205
+msgid "Skill percent 3"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:225
+msgid "Skill title 4"
+msgstr ""
+
+#: includes/customize-section/customize-about.php:237
+msgid "Skill percent 4"
+msgstr ""
+
+#: includes/customize-section/customize-blog.php:11
+#: includes/customize-section/customize-portfolio.php:11
+msgid "Hide Blog Section?"
+msgstr ""
+
+#: includes/customize-section/customize-blog.php:12
+#: includes/customize-section/customize-portfolio.php:12
+msgid "The Blog section will disappear if you enable this option"
+msgstr ""
+
+#: includes/customize-section/customize-blog.php:17
+msgid "LATEST POSTS"
+msgstr ""
+
+#: includes/customize-section/customize-blog.php:25
+msgid "Main Title of Latest Post section"
+msgstr ""
+
+#: includes/customize-section/customize-blog.php:41
+msgid "Sub Title of Latest Post section"
+msgstr ""
+
+#: includes/customize-section/customize-blog.php:55
+#: includes/customize-section/customize-portfolio.php:70
+msgid "How Many Post should be show?"
+msgstr ""
+
+#: includes/customize-section/customize-blog.php:72
+#: includes/customize-section/customize-portfolio.php:89
+msgid "Upload a backgound for blog section"
+msgstr ""
+
+#: includes/customize-section/customize-blog.php:88
+msgid "View All post button text."
+msgstr ""
+
+#: includes/customize-section/customize-blog.php:102
+msgid "View All post button URL"
+msgstr ""
+
+#: includes/customize-section/customize-client.php:11
+msgid "Hide client Section?"
+msgstr ""
+
+#: includes/customize-section/customize-client.php:12
+msgid "The Client section will disappear if you enable this option"
+msgstr ""
+
+#: includes/customize-section/customize-client.php:23
+msgid "Main Title of Client section"
+msgstr ""
+
+#: includes/customize-section/customize-client.php:38
+msgid "Sub Title of Client section"
+msgstr ""
+
+#. translators: %d Display label of client items.
+#: includes/customize-section/customize-client.php:61
+#, php-format
+msgid "Select a page as Client item %d"
+msgstr ""
+
+#: includes/customize-section/customize-cta.php:11
+msgid "Hide Call to Action Section?"
+msgstr ""
+
+#: includes/customize-section/customize-cta.php:12
+msgid "The Call to Action section will disappear if you enable this option"
+msgstr ""
+
+#: includes/customize-section/customize-cta.php:23
+msgid ""
+"Select a page as Call To Action. We use the page title. page excerpt and "
+"permalink"
+msgstr ""
+
+#: includes/customize-section/customize-cta.php:36
+msgid "Call to Action Button Text"
+msgstr ""
+
+#: includes/customize-section/customize-footer.php:12
+msgid "Footer Backgound color"
+msgstr ""
+
+#: includes/customize-section/customize-footer.php:22
+msgid "Copyright (C) Your Website 2019"
+msgstr ""
+
+#: includes/customize-section/customize-footer.php:27
+msgid "Copyright text"
+msgstr ""
+
+#: includes/customize-section/customize-general.php:15
+msgid "Blog list thumbnail style"
+msgstr ""
+
+#: includes/customize-section/customize-general.php:16
+msgid "Select Blog list thumbnail style"
+msgstr ""
+
+#: includes/customize-section/customize-general.php:18
+msgid "Cover"
+msgstr ""
+
+#: includes/customize-section/customize-general.php:19
+msgid "Contain"
+msgstr ""
+
+#: includes/customize-section/customize-general.php:34
+msgid "Hide blog item Excerpt?"
+msgstr ""
+
+#: includes/customize-section/customize-general.php:35
+msgid "By enabling this option the post Eecerpt will be disappeared"
+msgstr ""
+
+#: includes/customize-section/customize-general.php:49
+msgid "Hide blog item cats?"
+msgstr ""
+
+#: includes/customize-section/customize-general.php:50
+msgid "By enabling this option the post cats will be disappeared"
+msgstr ""
+
+#: includes/customize-section/customize-general.php:66
+msgid "Hide blog item tags?"
+msgstr ""
+
+#: includes/customize-section/customize-general.php:67
+msgid "By enabling this option the post tags will be disappeared"
+msgstr ""
+
+#: includes/customize-section/customize-header.php:16
+msgid "Select Header Logo / Navigation Alignment and header background color"
+msgstr ""
+
+#: includes/customize-section/customize-header.php:17
+msgid "Header Alignment"
+msgstr ""
+
+#: includes/customize-section/customize-header.php:19
+msgid "Left"
+msgstr ""
+
+#: includes/customize-section/customize-header.php:20
+msgid "Center"
+msgstr ""
+
+#: includes/customize-section/customize-header.php:21
+msgid "Right"
+msgstr ""
+
+#: includes/customize-section/customize-header.php:45
+msgid "Header Background Color"
+msgstr ""
+
+#: includes/customize-section/customize-header.php:73
+msgid "Menu items' color (Normal State)"
+msgstr ""
+
+#: includes/customize-section/customize-header.php:88
+msgid "Menu items' color on Hover State)"
+msgstr ""
+
+#: includes/customize-section/customize-hero.php:11
+msgid "Hide Hero Section?"
+msgstr ""
+
+#: includes/customize-section/customize-hero.php:12
+msgid "The Hero section will disappear if you enable this option"
+msgstr ""
+
+#: includes/customize-section/customize-hero.php:22
+msgid "Select a page as Home page Hero section"
+msgstr ""
+
+#: includes/customize-section/customize-hero.php:50
+msgid "Button Text"
+msgstr ""
+
+#: includes/customize-section/customize-hero.php:53
+msgid "Hero section button Text"
+msgstr ""
+
+#: includes/customize-section/customize-hero.php:65
+msgid "Hero section button Link(URL)"
+msgstr ""
+
+#: includes/customize-section/customize-ourteam.php:12
+msgid "Hide Our Team Section?"
+msgstr ""
+
+#: includes/customize-section/customize-ourteam.php:13
+msgid "The Our Team section will disappear if you enable this option"
+msgstr ""
+
+#: includes/customize-section/customize-ourteam.php:19
+#: includes/customizer.php:137
+msgid "Our Team"
+msgstr ""
+
+#: includes/customize-section/customize-ourteam.php:24
+msgid "Our Team Section Main Title"
+msgstr ""
+
+#: includes/customize-section/customize-ourteam.php:27
+msgid "Main Title of Our Team section"
+msgstr ""
+
+#: includes/customize-section/customize-ourteam.php:43
+msgid "Sub Title of Our Team section"
+msgstr ""
+
+#: includes/customize-section/customize-ourteam.php:57
+msgid "Select a page as Team Member 1"
+msgstr ""
+
+#: includes/customize-section/customize-ourteam.php:68
+msgid "Team Member 1 Position"
+msgstr ""
+
+#: includes/customize-section/customize-ourteam.php:82
+msgid "Select a page as Team Member 2"
+msgstr ""
+
+#: includes/customize-section/customize-ourteam.php:95
+msgid "Team Member 2 Position "
+msgstr ""
+
+#: includes/customize-section/customize-ourteam.php:110
+msgid "Select a page as Team Member 3"
+msgstr ""
+
+#: includes/customize-section/customize-ourteam.php:122
+msgid "Team Member 3 Position"
+msgstr ""
+
+#: includes/customize-section/customize-ourteam.php:138
+msgid "Select a page as Team Member 4"
+msgstr ""
+
+#: includes/customize-section/customize-ourteam.php:150
+msgid "Team Member 4 Position"
+msgstr ""
+
+#: includes/customize-section/customize-portfolio.php:18
+msgid "PORTFOLIO"
+msgstr ""
+
+#: includes/customize-section/customize-portfolio.php:26
+msgid "Main Title of PORTFOLIO section"
+msgstr ""
+
+#: includes/customize-section/customize-portfolio.php:43
+msgid "Sub Title of PORTFOLIO section"
+msgstr ""
+
+#: includes/customize-section/customize-portfolio.php:55
+msgid "Select a Portfolio category as your portfolios"
+msgstr ""
+
+#: includes/customize-section/customize-portfolio.php:105
+msgid "View All Portfolio button text."
+msgstr ""
+
+#: includes/customize-section/customize-portfolio.php:119
+msgid "View All Portfolio button URL"
+msgstr ""
+
+#: includes/customize-section/customize-services.php:11
+msgid "Hide Services Section?"
+msgstr ""
+
+#: includes/customize-section/customize-services.php:12
+msgid "The Services section will disappear if you enable this option"
+msgstr ""
+
+#: includes/customize-section/customize-services.php:18
+msgid "SERVICES"
+msgstr ""
+
+#: includes/customize-section/customize-services.php:26
+msgid "Main Title of Services section"
+msgstr ""
+
+#: includes/customize-section/customize-services.php:41
+msgid "Sub Title of Services section"
+msgstr ""
+
+#: includes/customize-section/customize-services.php:52
+msgid "Select a page as Service item 1"
+msgstr ""
+
+#: includes/customize-section/customize-services.php:63
+msgid "Select a page as Service item 2"
+msgstr ""
+
+#: includes/customize-section/customize-services.php:75
+msgid "Select a page as Service item 3"
+msgstr ""
+
+#: includes/customize-section/customize-sidebar.php:15
+msgid "Select blog list sidebar layout"
+msgstr ""
+
+#: includes/customize-section/customize-sidebar.php:16
+msgid "blog list Sidebar"
+msgstr ""
+
+#: includes/customize-section/customize-sidebar.php:18
+#: includes/customize-section/customize-sidebar.php:40
+#: includes/customize-section/customize-sidebar.php:64
+#: includes/customize-section/customize-sidebar.php:88
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/customize-section/customize-sidebar.php:19
+#: includes/customize-section/customize-sidebar.php:41
+#: includes/customize-section/customize-sidebar.php:65
+msgid "None - Full width"
+msgstr ""
+
+#: includes/customize-section/customize-sidebar.php:20
+#: includes/customize-section/customize-sidebar.php:42
+#: includes/customize-section/customize-sidebar.php:66
+#: includes/customize-section/customize-sidebar.php:90
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/customize-section/customize-sidebar.php:37
+msgid "Select page sidebar layout"
+msgstr ""
+
+#: includes/customize-section/customize-sidebar.php:38
+msgid "Page Sidebar"
+msgstr ""
+
+#: includes/customize-section/customize-sidebar.php:61
+msgid "Single post sidebar layout"
+msgstr ""
+
+#: includes/customize-section/customize-sidebar.php:62
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: includes/customize-section/customize-sidebar.php:85
+msgid "Archive post sidebar layout"
+msgstr ""
+
+#: includes/customize-section/customize-sidebar.php:86
+msgid "Archive Sidebar"
+msgstr ""
+
+#: includes/customize-section/customize-social.php:11
+msgid "Hide Social Networks Section?"
+msgstr ""
+
+#: includes/customize-section/customize-social.php:12
+msgid "The Social Networks section will disappear if you enable this option"
+msgstr ""
+
+#: includes/customize-section/customize-social.php:33
+msgid "Backgound color"
+msgstr ""
+
+#: includes/customize-section/customize-social.php:43
+msgid "Get In Touch"
+msgstr ""
+
+#: includes/customize-section/customize-social.php:48
+msgid "Social Section Main Title"
+msgstr ""
+
+#: includes/customize-section/customize-social.php:51
+msgid "Main Title of Social section"
+msgstr ""
+
+#: includes/customize-section/customize-social.php:67
+msgid "Sub Title of Social section"
+msgstr ""
+
+#: includes/customize-section/customize-social.php:81
+msgid "Enter your Contact Form 7 shortcode ID"
+msgstr ""
+
+#: includes/customize-section/customize-social.php:106
+msgid "Social Link(URL) 1"
+msgstr ""
+
+#: includes/customize-section/customize-social.php:118
+msgid "Upload The Social Network Logo 1"
+msgstr ""
+
+#: includes/customize-section/customize-social.php:134
+msgid "Social Link(URL) 2"
+msgstr ""
+
+#: includes/customize-section/customize-social.php:146
+msgid "Upload The Social Network Logo 2"
+msgstr ""
+
+#: includes/customize-section/customize-social.php:163
+msgid "Social Link(URL) 3"
+msgstr ""
+
+#: includes/customize-section/customize-social.php:175
+msgid "Upload The Social Network Logo 3"
+msgstr ""
+
+#: includes/customize-section/customize-social.php:193
+msgid "Social Link(URL) 4"
+msgstr ""
+
+#: includes/customize-section/customize-social.php:207
+msgid "Upload The Social Network Logo 4"
+msgstr ""
+
+#: includes/customize-section/customize-social.php:224
+msgid "Social Link(URL) 5"
+msgstr ""
+
+#: includes/customize-section/customize-social.php:239
+msgid "Upload The Social Network Logo 5"
+msgstr ""
+
+#: includes/customize-section/customize-social.php:254
+msgid "Social Link(URL) 6"
+msgstr ""
+
+#: includes/customize-section/customize-social.php:269
+msgid "Upload The Social Network Logo 6"
+msgstr ""
+
+#: includes/customize-section/customize-testimonials.php:11
+msgid "Hide Testimonial Section?"
+msgstr ""
+
+#: includes/customize-section/customize-testimonials.php:12
+msgid "The Testimonial section will disappear if you enable this option"
+msgstr ""
+
+#: includes/customize-section/customize-testimonials.php:18
+msgid "TESTIMONIALS"
+msgstr ""
+
+#: includes/customize-section/customize-testimonials.php:26
+msgid "Main Title of Testimonilal section"
+msgstr ""
+
+#: includes/customize-section/customize-testimonials.php:42
+msgid "Sub Title of Testimonilal section"
+msgstr ""
+
+#: includes/customize-section/customize-testimonials.php:54
+msgid "Select a page as testimonial item 1"
+msgstr ""
+
+#: includes/customize-section/customize-testimonials.php:66
+#: includes/customize-section/customize-testimonials.php:78
+msgid "Select a page as testimonial item 3"
+msgstr ""
+
+#: includes/customizer.php:8
+msgid "Theme options"
+msgstr ""
+
+#: includes/customizer.php:9
+msgid "Panel to update services items"
+msgstr ""
+
+#: includes/customizer.php:18
+msgid "General Options"
+msgstr ""
+
+#: includes/customizer.php:32
+msgid "Header"
+msgstr ""
+
+#: includes/customizer.php:47
+msgid "Hero Section"
+msgstr ""
+
+#: includes/customizer.php:61
+msgid "Services"
+msgstr ""
+
+#: includes/customizer.php:76
+msgid "About Us"
+msgstr ""
+
+#: includes/customizer.php:90
+msgid "Latest Posts"
+msgstr ""
+
+#: includes/customizer.php:101
+msgid "Portfolio"
+msgstr ""
+
+#: includes/customizer.php:112
+msgid "Testimonials"
+msgstr ""
+
+#: includes/customizer.php:125
+msgid "Call To Action"
+msgstr ""
+
+#: includes/customizer.php:149
+msgid "Clients"
+msgstr ""
+
+#: includes/customizer.php:160
+msgid "Social Networks"
+msgstr ""
+
+#: includes/customizer.php:174
+msgid "Sidebars"
+msgstr ""
+
+#: includes/customizer.php:187
+msgid "Footer"
+msgstr ""
+
+#: includes/home-page-sections/section-services.php:58
+msgid "Read More"
+msgstr ""
+
+#: page.php:98 single.php:121
+msgid "Oops! Seems somethings is wrong ..."
+msgstr ""
+
+#. translators: %s: the entered text for search
+#: search.php:32
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:9
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: single.php:75
+msgid "Next : "
+msgstr ""
+
+#: single.php:76
+msgid "Next post :"
+msgstr ""
+
+#: single.php:78
+msgid "Previous : "
+msgstr ""
+
+#: single.php:79
+msgid "Previous post :"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Asycom"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Asycom is a perfect and customizable theme for startups, corporate "
+"businesses, online companies, artists and freelancers to demo their "
+"portfolio and new projects."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Hossein Hashemi"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://bardiaweb.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr ""
