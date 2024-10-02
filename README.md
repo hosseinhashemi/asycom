@@ -1,5 +1,5 @@
-=== Asycom ===
-Contributors: hosseinhashemi
+# Asycom Standard WordPress Theme
+Contributors: **hosseinhashemi**
 Tags: blog, news, featured-image-header, flexible-header, footer-widgets, post-formats, translation-ready, left-sidebar,right-sidebar, rtl-language-support, portfolio
 Requires at least: 4.8
 Tested up to: 5.3
@@ -9,22 +9,23 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Asycom is a perfect and customizable theme for startups, corporate businesses, online companies, artists and freelancers to demo their portfolio and new projects.
 
-== Description ==
+## Description
 Asycom is a Perfect WordPress theme for professionals and beginners. 
 
 It fits creative business, small businesses (Companies, freelancers, artists and startups and blogs), startups, corporate businesses, online agencies and firms and freelancers. It has a multipurpose one-page design, widgetized footer, blog/news page. The theme is responsive and SEO friendly with a nice design. Asycom has an easy to use admin with a lot of customizer functions, so You can build Your dream without coding knowledge. The theme is responsive so looks good on almost every devices
 
-== Frequently Asked Questions ==
 
-= Do you support this theme in case we have any questions? =
+####Frequently Asked Questions
 
-Yes, we'll support Asycom theme, you could ask your questions and ask for new features we'll check and if (it possible) we'll add to next versions.
+- Do you support this theme in case we have any questions? 
 
-= Should we install extra plugins to use all theme's features? =
-No. Asycom theme doesn't use any recommended plugins.
+	- Yes, we'll support Asycom theme, you could ask your questions and ask for new features we'll check and if (it possible) we'll add to next versions.
 
-= Is it a free Theme? =
-Yes, it's a free theme. We don't have any premium version and we don't show you any go to pro box on your dashboard.
+- Should we install extra plugins to use all theme's features? 
+	- No. Asycom theme doesn't use any recommended plugins.
+
+- Is it a free Theme?
+	- Yes, it's a free theme. We don't have any premium version and we don't show you any go to pro box on your dashboard.
 
 
 == Changelog ==
@@ -86,3 +87,4 @@ Yes, it's a free theme. We don't have any premium version and we don't show you 
 Licensed under the MIT license - http://opensource.org/licenses/MIT
 Homepage: http://daneden.me/animate
 
+# 
